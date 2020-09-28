@@ -1,12 +1,12 @@
-# Covid-19 Pandemic Exploration (Our World in Data) 
+# Covid-19 Exploration (Our World in Data) 
 ## by Moahmed Desouky
 
 ## Introduction
-Exploring, analyzing and visualizing data to find some relationships and answers about the world pandemic Covid-19.
+**Exploring**, **analyzing** and **visualizing** data to find some relationships and answers about the world pandemic `Covid-19`.
 
 ## Dataset
 
-**The data** I will be using (and analyzing and visualizing) is dataset about **Coronavirus** Pandemic (COVID-19) avalibale via [**Our World in Data**](https://ourworldindata.org/coronavirus) website.
+**The data** I will be using (and analyzing and visualizing) is dataset about **Coronavirus** Pandemic `COVID-19` avalibale via [**Our World in Data**](https://ourworldindata.org/coronavirus) website.
 
 According to [WikiPedia](https://en.wikipedia.org/wiki/Our_World_in_Data), **Our World in Data** (OWID) is a scientific online publication that focuses on large global problems such as poverty, disease, hunger, climate change, war, existential risks, and inequality.
 
