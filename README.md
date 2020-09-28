@@ -10,7 +10,7 @@ In the **first notebook**, I will start with **Data Wrangling** techniques, e.g.
 
 While, in the **second notebook**, I will use Python visualization libraries to systematically `explore` a selected dataset, starting from plots of single variables and building up to plots of multiple variables, then `communicate` the interesting properties, trends, and relationships that I discovered through aesthetic and polished visuals.
 
-**Note:** I have included a slideshow `covid19_slideshow.slides.html` as a presentation that displays the explantory visualizations and the summary of my findings, also I have included the review `Udacity Review.pdf` from Udacity on my project and I have already take the reviewer's suggestions and notes into consideration.
+**Note:** I have included a slideshow (`covid19_slideshow.slides.html`) as a presentation that displays the explantory visualizations and the summary of my findings, also I have included the review (`Udacity Review.pdf`) from Udacity on my project and I have already take the reviewer's suggestions and notes into consideration.
 
 ## Dataset
 
